@@ -1,0 +1,4 @@
+
+--Deleting the mail permanently **(Raj)  -- partially completed
+--DELETING THE USER permanently (shivam)
+
